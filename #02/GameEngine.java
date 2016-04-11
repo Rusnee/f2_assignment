@@ -14,7 +14,7 @@ public class GameEngine implements Report{
 		this.panel = panel;
 		this.bb = bb;		
 		
-		panel.sprite.add(bb); //Show big bog
+		panel.sprite.add(bb); //Show big box
 		
 		time = new Timer(50, new ActionListener() {
 			
