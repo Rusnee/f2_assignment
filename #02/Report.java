@@ -1,4 +1,4 @@
-package f2.spw;
+package assignment;
 
 public interface Report {
 
