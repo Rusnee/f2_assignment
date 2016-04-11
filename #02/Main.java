@@ -1,4 +1,4 @@
-package f2.spw;
+package assignment;
 
 import javax.swing.JFrame;
 import java.awt.BorderLayout;
