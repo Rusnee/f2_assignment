@@ -12,7 +12,7 @@ public class BigBox extends Sprite{
 
 	@Override
 	public void draw(Graphics2D g2d) {
-		g2d.setColor(Color.GREEN); //Set color Big bog (color green because folow teacher)
+		g2d.setColor(Color.GREEN); //Set color big bog (color green because folow teacher)
 		g2d.fillRect(x, y, w, h); //Set x-axis,y-axis,width and height
 		
 	}
