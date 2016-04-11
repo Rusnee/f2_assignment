@@ -1,4 +1,4 @@
-package f2.spw;
+package assignment;
 
 import java.awt.Color;
 import java.awt.Graphics;
